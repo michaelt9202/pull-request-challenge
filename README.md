@@ -1,6 +1,6 @@
 # Pull Request Challenge
 
-In order to get instructions for the next part of the challenge, you need to submit a pull request to this repository with your encrypted email address as the title.
+In order to get  for the next part of the challenge, you need to submit a pull request to this repository with your encrypted email address as the title.
 
 **It is not necessary to use git for this exercise!** All operations can be performed using Github's online interface.
 
